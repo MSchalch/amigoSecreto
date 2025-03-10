@@ -14,7 +14,7 @@ function gerarNumeroAleatorio(numAmigos) {
 function adicionarAmigo(){
     amigo = document.getElementById('amigo').value;
     if(amigo == ""){
-        alert("Por favor preencha o campo antes de clicar em Adicionar.");
+        alert("Por favor, preencha o campo antes de clicar em Adicionar.");
     }else{
         if(listaDeAmigos.indexOf(amigo)== -1){
             listaDeAmigos.push(amigo);

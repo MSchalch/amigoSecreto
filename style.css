@@ -128,6 +128,13 @@ button {
     background-color: #a1a1a1;
 }
 
+.instrucao{
+    color: var(--color-primary);
+    font-family: "Inter", sans-serif;
+    padding: 15px 15px;
+
+}
+
 /* Listas */
 .resultadoSorteio{
     width: auto;
