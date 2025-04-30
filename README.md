@@ -33,8 +33,8 @@ Matheus Schalch
 
 ## Contato
 
-* [Seu GitHub](https://github.com/MSchalch)
-* [Seu E-mail](mailto:matheus.schalch@gmail.com)
+* [GitHub](https://github.com/MSchalch)
+* [E-mail](mailto:matheus.schalch@gmail.com)
 
 ## Status do Projeto
 
